@@ -14,4 +14,4 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_OUTSETTERS_3FAE7 }}'
-          projectId: outsetters-3fae7
+          projectId: kliativecom
